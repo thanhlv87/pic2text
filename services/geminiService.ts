@@ -3,7 +3,7 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // Khởi tạo Google Generative AI client
-const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY || 'YOUR_API_KEY');
+const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY || (import.meta.env.GEMINI_API_KEY as string) || 'YOUR_API_KEY');
 
 // Hàm chuyển đổi File thành base64
 const fileToGenerativePart = async (file: File) => {
