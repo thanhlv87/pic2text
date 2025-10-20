@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Trình trích xuất văn bản từ hình ảnh",
+  "description": "Một ứng dụng web sử dụng API Gemini của Google để trích xuất văn bản từ hình ảnh được tải lên một cách chính xác.",
+  "requestFramePermissions": []
+}
