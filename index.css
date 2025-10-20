@@ -1,0 +1,6 @@
+/* Custom styles for the application */
+@import url('https://rsms.me/inter/inter.css');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
