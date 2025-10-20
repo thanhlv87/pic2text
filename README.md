@@ -33,3 +33,4 @@ Bây giờ, mỗi khi bạn đẩy code lên `main branch`, quy trình trong `.g
 -   **Tailwind CSS:** Framework CSS để tạo kiểu nhanh chóng.
 -   **Google Gemini API:** Dịch vụ AI để thực hiện việc trích xuất văn bản.
 -   **GitHub Actions:** Tự động hóa quy trình triển khai.
+giờ tôi phải làm sao
